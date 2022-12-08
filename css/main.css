@@ -1,11 +1,21 @@
 body {
     background-color: #f5ebe0;
+    margin: 0;
 }
 
 #navColor101 {
     background-color: #dba39a;
 }
 
-#navDownColor {
+#quoteOfDay {
     background-color: #f0dbdb;
+}
+
+.ourOwnMarginLeft {
+    margin-left: 100px;
+}
+
+.exxtraCss {
+    mix-blend-mode: multiply;
+    border-color: #f0dbdb;
 }
